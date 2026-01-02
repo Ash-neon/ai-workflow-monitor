@@ -2,6 +2,8 @@
 
 **Enterprise SaaS for AI Reliability Testing & Monitoring**
 
+🌐 **Live Demo:** https://ai-workflow-monitor-production.up.railway.app/
+
 Stop broken AI workflows. Version control your prompts. Ensure consistency across model updates.
 
 ## 🎯 Problem We Solve
@@ -58,8 +60,9 @@ AI Workflow Monitor provides:
 
 **Frontend:**
 - Vanilla JavaScript
-- Modern CSS
+- Modern CSS with animations
 - Responsive design
+- Futuristic AI-themed UI
 
 **AI Integration:**
 - OpenRouter API
@@ -86,6 +89,10 @@ prompt_versions (id, workflow_id, version, prompt, model, performance_score, cre
 ```
 
 ## 🚀 Quick Start
+
+### Try It Live
+
+Visit: https://ai-workflow-monitor-production.up.railway.app/
 
 ### Installation
 
@@ -187,7 +194,7 @@ GET /api/dashboard/stats
 Authorization: Bearer <token>
 ```
 
-## 💰 Pricing (Coming Soon)
+## 💰 Pricing
 
 **Free Tier:**
 - 3 workflows
@@ -286,6 +293,7 @@ MIT
 
 ## 🔗 Links
 
+- **Live Demo:** https://ai-workflow-monitor-production.up.railway.app/
 - **GitHub:** https://github.com/Ash-neon/ai-workflow-monitor
 - **Documentation:** Coming soon
 - **Support:** GitHub Issues
